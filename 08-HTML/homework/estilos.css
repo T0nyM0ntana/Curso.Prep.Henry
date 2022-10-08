@@ -1,0 +1,30 @@
+h1 {
+    color: brown;
+    text-align: center;;
+}
+img {
+    width: 400px;
+    
+}
+.divClass{
+    text-align: center;
+}
+#thirdDiv{
+    text-align: center;
+    height: 600px;
+    width: 500px;
+    background: red;
+    padding: 50px;
+    border: 2px solid black;
+    margin: 0 auto;
+    
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
+body{
+    text-align: center;
+}
